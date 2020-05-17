@@ -3,4 +3,5 @@ class School
     @roster = roster
   end
   
+  def roster
 end
