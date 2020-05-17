@@ -8,6 +8,6 @@ class School
   end
   
   def roster
-    @roster
+   puts {}
   end
 end
